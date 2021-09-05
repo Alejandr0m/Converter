@@ -1,0 +1,1 @@
+g++ -std=gnu++11 -o main       ../main.cpp ../includes/convert.cpp

@@ -31,7 +31,6 @@
 
 # **output**
 <pre>
-<br/><br/>
 =================================================
 Please choose the base you are starting with. 
 0. Exit
